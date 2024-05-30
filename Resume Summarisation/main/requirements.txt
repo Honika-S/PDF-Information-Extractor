@@ -1,0 +1,4 @@
+pdfminer.six==20201018
+tabulate==0.8.9
+streamlit
+pytest==7.4.0
