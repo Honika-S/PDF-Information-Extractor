@@ -1,4 +1,4 @@
-# PDF Information Extractor
+# Resume Information Extractor
 
 ## Overview
 
